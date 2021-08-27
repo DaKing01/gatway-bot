@@ -98,4 +98,3 @@ Rest assured ... these are really easy!
   * Make sure the bot has `MANAGE_ROLES` permissions and the Verified role is below the bot's top role.
   * Make sure the role ID and server ID are correct.
 
-_ If the problem persists, please let us know in [Issues](https://github.com/waki285/gatekeeper/issues) or [pull requests](https//github.com/waki285/gatekeeper/pulls)! _
