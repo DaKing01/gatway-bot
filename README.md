@@ -74,7 +74,6 @@ Rest assured ... these are really easy!
   Now let's start the bot! Then the bot should be online!
 1. Verification Panel
   Run `!verify` on the channel where you want to wake up the verification panel...
-  ![panel](https://media.discordapp.net/attachments/815719965221978117/862863285455945758/unknown.png)
 
   (If you don't see the panel, go to the troubleshooting section)
 
